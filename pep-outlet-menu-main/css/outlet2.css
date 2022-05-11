@@ -1,0 +1,47 @@
+.nameHeader{
+    font-size: 40px;
+    position: absolute;
+    top: 210px;
+    left: 110px;
+}
+.posi{
+    position: absolute;
+    top: 290px;
+    left: 96px;
+    display: flex;
+}
+.posiText{
+    margin: 0;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.linkHome{
+    padding-right: 0;
+}
+.background{
+    background-image: url("../img-outletMenu/bg-all.aee0155aaac5cc9f712b.jpg");
+
+}
+.choiceBar{
+    padding-top: 40px;
+}
+.choiceMenu{
+    margin: 10px auto 10px auto;
+}
+.choiceMenu .choice:hover{
+    color: #ff253a;
+}
+.active.choice{
+    color: #ff253a;
+}
+.infoMenu{
+    padding-top: 50px;
+}
+.otherChoice{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 90px;
+}
+.lastChoice{
+    width: 80%;
+}
